@@ -5,3 +5,5 @@ which when compiled creates an executable jar that we are going to use
 our terraform demo.
 
 
+#Build Status
+[ ![Codeship Status for Frecra/springboot](https://app.codeship.com/projects/3abc43b0-918e-0134-1590-76f61b456e60/status?branch=master)](https://app.codeship.com/projects/185895)
