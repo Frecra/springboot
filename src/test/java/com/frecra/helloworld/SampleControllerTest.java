@@ -9,7 +9,7 @@ public class SampleControllerTest {
     @Test
     public void simpleUnitTest() {
 
-        assertEquals("Hello World!", (new SampleController()).home());
+        assertEquals("Hello Gresham!", (new SampleController()).home());
     }
 
 }

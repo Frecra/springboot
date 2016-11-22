@@ -21,7 +21,7 @@ public class SampleControllerIntegrationTest {
     @Test
     public void simpleIntegrationTest() {
         String body = this.restTemplate.getForObject("/", String.class);
-        assertThat(body).isEqualTo("Hello World!");
+        assertThat(body).isEqualTo("Hello Gresham!");
     }
 
 }
